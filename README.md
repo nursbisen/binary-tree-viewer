@@ -1,5 +1,6 @@
 # Binary Tree Viewer
-[Demo](https://binary-tree-viewer.surge.sh).
+[Demo](https://binary-tree-viewer.surge.sh)
+
 The application draws a binary search tree. Pressing the spacebar generates a random number in the range [-100; 100] and adds it to the tree.
 
 In the project directory, you can start development mode:
